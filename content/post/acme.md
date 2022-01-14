@@ -8,6 +8,8 @@ draft: false
 ## 安装acme.sh
 >curl  https://get.acme.sh | sh
 
+>source .bashrc
+
 安装在了~/.acme.sh/之中,如果你用的是Bash的话，最好在.bashrc文件最后添加一行,
 >alias acme.sh=~/.acme.sh/acme.sh
 
