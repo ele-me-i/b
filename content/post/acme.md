@@ -33,7 +33,7 @@ acme.sh --upgrade --auto-upgrade
 
 添加以下内容，注意修改中文注释的地方
 >#!/bin/bash
->.acme.sh/acme.sh --install-cert -d 你的域名 --ecc --fullchain-file  /etc/>nginx/ssl/private/你的域名.crt --key-file  /etc/nginx/ssl/private/你的域名.key
+>.acme.sh/acme.sh --install-cert -d 你的域名 --ecc --fullchain-file  /etc/nginx/ssl/private/你的域名.crt --key-file  /etc/nginx/ssl/private/你的域名.key
 >echo "Xray Certificates Renewed"
 >chmod +r /etc/nginx/ssl/private/你的域名.key
 >echo "Read Permission Granted for Private Key"
