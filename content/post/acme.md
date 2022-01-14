@@ -23,7 +23,10 @@ acme.sh --upgrade --auto-upgrade
 
 >acme.sh --issue -d 你的域名 --standalone -k ec-256
 
->acme.sh --installcert -d 你的域名 --fullchainpath /etc/nginx/ssl/private/你的域名.crt --keypath /etc/nginx/ssl/private/你的域名.key --ecc
+>acme.sh --install-cert -d 你的域名 --fullchain-file /etc/nginx/ssl/private/你的域名.crt --key-file /etc/nginx/ssl/private/你的域名.key --ecc
+
+或者用这个命令简单的操作
+>acme.sh --issue -d 二级域名.你的域名.com -w /home/vpsadmin/www/webpage --keylength ec-256 --force
 
 改下权限
 >chmod 755 /etc/nginx/ssl/private
