@@ -2,7 +2,23 @@
 title: "Linux查看物理CPU个数、核数、逻辑CPU个数"
 date: 2022-01-11T16:20:17+08:00
 draft: false
-tags: ["linux"]
+# description: "Example article description"
+categories:
+  - "Linux"
+  - "Centos"
+tags:
+  - "Linux"
+# menu: main # Optional, add page to a menu. Options: main, side, footer
+
+# Theme-Defined params
+thumbnail: "img/placeholder.png" # Thumbnail image
+# lead: "Example lead - highlighted near the title" # Lead text
+# comments: false # Enable Disqus comments for specific page
+# sidebar: "right" # Enable sidebar (on the right side) per page
+# widgets: # Enable sidebar widgets in given order per page
+#   - "search"
+#   - "recent"
+#   - "taglist"
 ---
 
 ## Linux查看物理CPU个数、核数、逻辑CPU个数

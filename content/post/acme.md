@@ -2,7 +2,24 @@
 title: "Acme 安装及使用"
 date: 2022-01-14T14:25:26+08:00
 draft: false
-tags: ["SSL"]
+# description: "Example article description"
+categories:
+  - "Linux"
+  - "Centos"
+tags:
+  - "SSL"
+  - "acme.sh"
+# menu: main # Optional, add page to a menu. Options: main, side, footer
+
+# Theme-Defined params
+# thumbnail: "img/placeholder.png" # Thumbnail image
+# lead: "Example lead - highlighted near the title" # Lead text
+# comments: false # Enable Disqus comments for specific page
+# sidebar: "right" # Enable sidebar (on the right side) per page
+# widgets: # Enable sidebar widgets in given order per page
+#   - "search"
+#   - "recent"
+#   - "taglist"
 ---
 
 # acme.sh 安装及使用
