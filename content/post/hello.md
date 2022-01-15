@@ -2,6 +2,7 @@
 title: "Linux查看物理CPU个数、核数、逻辑CPU个数"
 date: 2022-01-11T16:20:17+08:00
 draft: false
+tags: ["linux"]
 ---
 
 ## Linux查看物理CPU个数、核数、逻辑CPU个数
