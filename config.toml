@@ -11,7 +11,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Me ele"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  bio = "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
   avatar = "img/avatar.png"
 
 [Params]
