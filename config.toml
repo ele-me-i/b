@@ -72,12 +72,12 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # Enable parts of social widget
 #   facebook = "username"
   twitter = "ele00003"
-#   instagram = "username"
+#   instagram = "meele936"
 #   linkedin = "username"
 #   telegram = "username"
-  github = "meelehub"
-#   gitlab = "username"
-#   bitbucket = "username"
+  # github = "meelehub"
+#   gitlab = "meelehub"
+#   bitbucket = "meele936"
   email = "me.ele@outlook.com"
 
 # Custom social links
