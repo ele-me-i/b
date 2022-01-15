@@ -90,6 +90,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #   title = "My Home Page"
 #   url = "https://example.com"
 
+# Add chain
 [menu]
     [[menu.footer]]
         name = "鱼儿的博客"
