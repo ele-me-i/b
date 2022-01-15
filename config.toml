@@ -89,3 +89,17 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 # [[Params.widgets.social.custom]]
 #   title = "My Home Page"
 #   url = "https://example.com"
+
+[menu]
+    [[menu.footer]]
+        name = "鱼儿的博客"
+        url = "https://yuerblog.cc/"
+        weight = 10
+    [[menu.footer]]
+        name = "火龙果的博客"
+        url = "https://yanlong.me/"
+        weight = 20
+    [[menu.footer]]
+        name = "小柯南的博客"
+        url = "https://www.jjcbs.com/"
+        weight = 30
