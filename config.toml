@@ -71,11 +71,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets.social]
   # Enable parts of social widget
 #   facebook = "username"
-#   twitter = "username"
+  twitter = "ele00003"
 #   instagram = "username"
 #   linkedin = "username"
 #   telegram = "username"
-#   github = "username"
+  github = "meelehub"
 #   gitlab = "username"
 #   bitbucket = "username"
   email = "me.ele@outlook.com"
