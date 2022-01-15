@@ -49,7 +49,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
   title = "MEELE" # Logo title, otherwise will use site title
-  subtitle = "NO CODE NO BUGS" # Logo subtitle
+  subtitle = "Where there's muck, there's brass." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
