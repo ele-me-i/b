@@ -33,7 +33,7 @@ docker save -o rocketmq.tar rocketmq
 > rocketmq：镜像名字，通过"docker images"查看
 
 ##### 载入镜像
-我们有了本地的镜像文件，在需要的时候可以使用docker load将本地保存的镜像导入docker中。
+有了本地的镜像文件，在需要的时候可以使用docker load将本地保存的镜像导入docker中。
 ```
 docker load --input rocketmq.tar 
 或 
