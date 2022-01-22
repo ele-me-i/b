@@ -56,9 +56,9 @@ tar xzvf docker-ce-20.tar.gz && cd dockerrpm && rpm -ivh *.rpm --force --nodeps
 ##### 解释：
 前两步：解压，打开依赖文件夹
 参数解释：
-> rpm -ivh *.rpm --force --nodeps 
-1.--nodeps 就是安装时不检查依赖关系，比如你这个rpm需要A，但是你没装A，这样你的包就装不上，用了--nodeps你就能装上了。
-2.--force 就是强制安装，比如你装过这个rpm的版本1，如果你想装这个rpm的版本2，就需要用--force强制安装。
+> rpm -ivh *.rpm --force --nodeps  
+1.--nodeps 就是安装时不检查依赖关系，比如你这个rpm需要A，但是你没装A，这样你的包就装不上，用了--nodeps你就能装上了。  
+2.--force 就是强制安装，比如你装过这个rpm的版本1，如果你想装这个rpm的版本2，就需要用--force强制安装。  
 
 ##### 查看docker状态：
 > systemctl status docker
