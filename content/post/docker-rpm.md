@@ -66,12 +66,12 @@ tar xzvf docker-ce-20.tar.gz && cd dockerrpm && rpm -ivh *.rpm --force --nodeps
 
 ##### 参考文章：
 Docker CE 镜像源站
-https://developer.aliyun.com/article/110806
-教你如何在 CentOS 7 下 yum 方式安装 Docker 环境
-https://www.linuxprobe.com/centos-7-yum-docker.html
-How to use yum to download a RPM package without installing it
-https://www.xmodulo.com/yum-download-rpm-package.html
-https://linux.cn/article-5100-1.html
-rpm忽略依赖，强制安装
-https://www.cnblogs.com/guanghuiqq/p/13298267.html
-https://blog.csdn.net/xufengzhu/article/details/81131032
+https://developer.aliyun.com/article/110806  
+教你如何在 CentOS 7 下 yum 方式安装 Docker 环境  
+https://www.linuxprobe.com/centos-7-yum-docker.html  
+How to use yum to download a RPM package without installing it  
+https://www.xmodulo.com/yum-download-rpm-package.html  
+https://linux.cn/article-5100-1.html  
+rpm忽略依赖，强制安装  
+https://www.cnblogs.com/guanghuiqq/p/13298267.html  
+https://blog.csdn.net/xufengzhu/article/details/81131032  
