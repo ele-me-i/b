@@ -5,10 +5,11 @@ draft: false
 # description: "Example article description"
 categories:
   - "Linux"
-  - "Debian11"
+  - "Docker"
 tags:
   - "Docker"
   - "Docker-Compose"
+  - "Docker Images"
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
