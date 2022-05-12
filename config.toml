@@ -101,6 +101,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
         url = "https://yanlong.me/"
         weight = 20
     [[menu.footer]]
-        name = "小柯南的博客"
-        url = "https://www.jjcbs.com/"
+        name = "lal"
+        url = "https://pengrl.com"
         weight = 30
